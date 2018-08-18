@@ -22,7 +22,3 @@ function theBeatlesPlay (musicians, instruments) {
   return array
 }
 
-
-
-
-*/
