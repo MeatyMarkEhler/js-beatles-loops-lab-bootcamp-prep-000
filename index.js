@@ -24,9 +24,9 @@ function theBeatlesPlay (musicians, instruments) {
 
 
 function iLoveTheBeatles(n){
-  var empty = 0{
+  var empty = 0;
+  n++;{
     do (empty.push("I love the Beatles!"));
-    n++;
+    while (n<16)
   }
-  while (n>16)
 }
