@@ -11,7 +11,6 @@ function johnLennonFacts(bestbeatle){
   return bestbeatle
 }
 
-}
 /*
 
 
