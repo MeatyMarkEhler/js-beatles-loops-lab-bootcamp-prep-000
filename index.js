@@ -1,11 +1,12 @@
 function theBeatlesPlay (musicians, instruments) {
   var array = []
   for ( i = 0; i>musicians.length; i++) {
-    musicians.push();
-    instruments.push();
+    
   }
   return array
 }
+
+Array.prototype.push.apply(vegetables, moreVegs);
 
 const facts = [
   "He was the last Beatle to learn to drive",
