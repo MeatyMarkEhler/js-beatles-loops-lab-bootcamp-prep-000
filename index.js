@@ -11,7 +11,7 @@ const facts = [
 
 function johnLennonFacts(facts){
   var n = 0
-  while (n < 4) {
+  while (n < facts.length) {
     [facts] = [facts] + "!!!";
     n++
   }
