@@ -15,7 +15,7 @@ function johnLennonFacts(bestBeatle){
 
 
 function theBeatlesPlay (musicians, instruments) {
-  var array = 0
+  var array = [];
   for ( i = 0; i<musicians.length; i++) {
     array.push(`${musicians[i]} plays ${instruments[i]}`);
   }
