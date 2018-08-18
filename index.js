@@ -5,7 +5,7 @@
 function johnLennonFacts(bestbeatle){
   var n = 0;
   while (n < bestbeatle.length){
-    bestbeatle[n] = bestbeatle[n]] + "!!!";
+    bestbeatle[n] = bestbeatle[n] + "!!!";
     n++;
   }
   return bestbeatle
