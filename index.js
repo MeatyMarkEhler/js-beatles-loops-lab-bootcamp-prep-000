@@ -9,15 +9,14 @@ const facts = [
   "He hated the sound of his own voice"
 ];
 
-function johnLennonFacts(facts){
-  var n = 0
-  while (n < facts.length) {
-    [facts] = [facts] + "!!!";
-    n++
+function johnLennonFacts(bestbeatle){
+  var n = 0;
+  while (n < bestbeatle.length){
+    [bestbeatle] = [bestbeatle] + "!!!";
+    n++;
   }
-  return facts
+  return bestbeatle
 }
-
 
 }
 /*
