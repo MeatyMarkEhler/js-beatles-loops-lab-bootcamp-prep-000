@@ -1,11 +1,11 @@
 function theBeatlesPlay (musicians, instruments) {
   var array = []
   for ( i = 0; i>musicians.length; i++) {
-    string()
+    array.apply(`${musicians[i]} plays ${instruments[i]`);
   }
   return array
 }
-
+/*
 Array.prototype.push.apply(vegetables, moreVegs);
 
 const facts = [
@@ -14,3 +14,4 @@ const facts = [
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"
 ];
+*/
