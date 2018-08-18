@@ -4,7 +4,5 @@ function theBeatlesPlay (musicians, instruments) {
     musicians.push(i);
     instruments.push(i);
   }
-    
-  }
-  return 
+  return array
 }
