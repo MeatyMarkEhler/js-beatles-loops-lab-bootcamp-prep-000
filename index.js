@@ -12,9 +12,10 @@ const facts = [
 function johnLennonFacts(facts){
   var n = 0
   while (n < 4) {
-    do
-    console.log(`${facts}!!!`);
+    [facts] = [facts] + "!!!";
+    n++
   }
+  return facts
 }
 
 
