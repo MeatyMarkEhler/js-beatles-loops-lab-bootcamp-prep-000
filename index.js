@@ -11,7 +11,7 @@ const facts = [
 
 function johnLennonFacts(facts){
   while () {
-    
+    console.log(`${}!!!`)
   }
 }
 
