@@ -27,7 +27,6 @@ function iLoveTheBeatles(n){
   var empty = 0{
     do (empty.push("I love the Beatles!"));
     n++;
-    while (n>16)
-    }
   }
+  while (n>16)
 }
