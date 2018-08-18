@@ -1,5 +1,4 @@
 
-/*
 
 
 function johnLennonFacts(bestBeatle){
@@ -22,7 +21,6 @@ function theBeatlesPlay (musicians, instruments) {
   return array
 }
 
-*/
 function iLoveTheBeatles(n){
   var empty = [];
   do {
