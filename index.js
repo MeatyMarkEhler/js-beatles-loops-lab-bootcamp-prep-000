@@ -1,5 +1,5 @@
 
-
+/*
 
 
 function johnLennonFacts(bestBeatle){
@@ -22,11 +22,11 @@ function theBeatlesPlay (musicians, instruments) {
   return array
 }
 
-
+*/
 function iLoveTheBeatles(n){
-  var empty = 0;
-  n++;{
+  var empty = 0;{
     do (empty.push("I love the Beatles!"));
+    n++;
     while (n<16)
   }
   return empty
