@@ -2,10 +2,10 @@
 
 
 
-function johnLennonFacts(bestbeatle){
+function johnLennonFacts(bestBeatle){
   var n = 0;
-  while (n < bestbeatle.length){
-    bestbeatle[n] = bestbeatle[n] + "!!!";
+  while (n < bestBeatle.length){
+    bestBeatle[n] = bestbeatle[n] + "!!!";
     n++;
   }
   return bestbeatle
@@ -22,3 +22,9 @@ function theBeatlesPlay (musicians, instruments) {
   return array
 }
 
+
+function iLoveTheBeatles(0){
+  var empty = 0{
+    do 
+  }
+}
