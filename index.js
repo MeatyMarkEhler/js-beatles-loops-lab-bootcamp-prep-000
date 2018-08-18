@@ -28,7 +28,8 @@ function iLoveTheBeatles(n){
     do {
   console.log("I love the Beatles!");
   incrementVariable(n);
-} while (n < 16);
-}
-  return empty
+} while (n < 15);
+
+    return array
+  }
 }
