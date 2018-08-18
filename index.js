@@ -11,26 +11,18 @@ function johnLennonFacts(bestbeatle){
   return bestbeatle
 }
 
-/*
+
 
 
 function theBeatlesPlay (musicians, instruments) {
   var array = []
   for ( i = 0; i>musicians.length; i++) {
-    array.apply(`${musicians[i]} plays ${instruments[i]}`);
+    array.push(`${musicians[i]} plays ${instruments[i]}`);
   }
   return array
-
-
-
-function johnLennonFacts(a) { 
-  var n = 0;
-  while (n < 4) {
-    a[n] = a[n] + "!!!";
-    n++
-  } 
-  return a
 }
+
+
 
 
 */
