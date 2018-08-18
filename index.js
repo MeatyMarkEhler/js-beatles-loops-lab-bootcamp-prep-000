@@ -23,8 +23,11 @@ function theBeatlesPlay (musicians, instruments) {
 }
 
 
-function iLoveTheBeatles(0){
+function iLoveTheBeatles(n){
   var empty = 0{
-    do 
+    do (empty.push("I love the Beatles!"));
+    n++;
+    while (n>16)
+    }
   }
 }
