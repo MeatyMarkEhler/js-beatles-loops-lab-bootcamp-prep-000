@@ -24,12 +24,28 @@ function theBeatlesPlay (musicians, instruments) {
 
 */
 function iLoveTheBeatles(n){
-  var empty = 0;{
-    do {
-  console.log("I love the Beatles!");
-  incrementVariable(n);
-} while (n < 15);
-
-    return array
+  var empty = [];
+  do {
+  empty.push('I love the Beatles!');
+  n++;
   }
+  while(n < 15);
+  return empty
 }
+
+/*
+
+
+function iLoveTheBeatles(number) {
+  const arr = [];
+   
+  do {
+    arr.push(`I love the Beatles!`)
+    number++
+  }
+  while(number < 15)
+    
+  return arr
+    
+}
+*/
